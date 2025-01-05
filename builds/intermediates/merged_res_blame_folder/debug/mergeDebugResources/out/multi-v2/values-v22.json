@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.doni.flowerimageprediction.app-mergeDebugResources-46:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Doni Arafat\\Downloads\\Compressed\\gradle-8.4-all\\gradle-8.4\\caches\\8.9\\transforms\\465ff00d9c4d3a59ba4c3d05d76ba93b\\transformed\\appcompat-1.7.0\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

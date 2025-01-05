@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="iconButton">#48444D</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Flower Image Prediction</string>
+    <string name="content_image">Preview Image</string>
+    <string name="date">Analysis Date</string>
+    <string name="failed_show_camera_preview">Cannot preview camera</string>
+    <string name="failed_take_picture">Failed to take picture</string>
+    <string name="permissions_denied_message">Permissions denied. Camera and gallery features won\'t work.</string>
+    <string name="photo">Photo Preview</string>
+    <string name="result">Analysis Result</string>
+    <string name="save_result">Save to History</string>
+    <string name="tidak_ada_riwayat_prediksi_yang_anda_simpan">Tidak ada riwayat prediksi yang disimpan</string>
+    <style name="Base.Theme.FlowerImagePrediction" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FlowerImagePrediction" parent="Base.Theme.FlowerImagePrediction"/>
+</resources>
